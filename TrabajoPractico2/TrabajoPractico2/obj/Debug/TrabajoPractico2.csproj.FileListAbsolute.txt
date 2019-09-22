@@ -1,0 +1,7 @@
+C:\Users\Georgi\source\repos\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.exe.config
+C:\Users\Georgi\source\repos\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.exe
+C:\Users\Georgi\source\repos\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.pdb
+C:\Users\Georgi\source\repos\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.exe
+C:\Users\Georgi\source\repos\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Georgi\source\repos\Tpxml\Tpxml\bin\Debug\Tpxml.exe.config
+C:\Users\Georgi\source\repos\Tpxml\Tpxml\bin\Debug\Tpxml.exe
+C:\Users\Georgi\source\repos\Tpxml\Tpxml\bin\Debug\Tpxml.pdb
+C:\Users\Georgi\source\repos\Tpxml\Tpxml\obj\Debug\Tpxml.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\Tpxml\Tpxml\obj\Debug\Tpxml.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\Tpxml\Tpxml\obj\Debug\Tpxml.exe
+C:\Users\Georgi\source\repos\Tpxml\Tpxml\obj\Debug\Tpxml.pdb
