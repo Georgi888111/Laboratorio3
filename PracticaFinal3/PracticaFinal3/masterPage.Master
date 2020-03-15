@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterPage.master.cs" Inherits="PracticaFinal3.masterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="formulario" runat="server">
+         <div style="float:left;width:49%">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                <asp:Button ID="muestra" runat="server" Text="Mostrar formulario" OnClick="muestra_Click" />
+                  <asp:Button ID="oculta" runat="server" Text="Ocultar formulario" OnClick="oculta_Click" />
+            </asp:ContentPlaceHolder>
+           
+             </div>
+              <div style="float:right;width:49%">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

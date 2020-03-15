@@ -1,0 +1,38 @@
+﻿#div1 {
+  
+    float: left;
+    width: 25%;
+    position: relative;
+    
+}
+#div2 {
+   
+    float: left;
+    width: 50%;
+    position:relative;
+}
+#div3 {
+   
+    float: left;
+    clear: both;
+    position: relative;
+    width:25%;
+
+  
+}
+#div4 {
+    float: left;
+ 
+    position: relative;
+    width:50%;
+}
+#header{
+    margin-left:310px;
+}
+#rBtn{
+    display:inline;
+}
+#subtitulo {
+    font-weight: bold;
+}
+

@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="textBoxNoVacio.ascx.cs" Inherits="PracticaParcialFinal.textBoxNoVacio" %>
+<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Debe completar este campo para continuar" ControlToValidate="TextBox1"></asp:RequiredFieldValidator>

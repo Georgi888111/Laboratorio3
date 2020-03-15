@@ -1,0 +1,7 @@
+C:\Users\Georgi\source\repos\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.exe.config
+C:\Users\Georgi\source\repos\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.exe
+C:\Users\Georgi\source\repos\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.pdb
+C:\Users\Georgi\source\repos\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.exe
+C:\Users\Georgi\source\repos\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.pdb

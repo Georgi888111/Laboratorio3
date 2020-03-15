@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articulos>
+  <Artículo Código="1111">
+    <Denominacion>Arroz</Denominacion>
+    <Vencimiento>Si</Vencimiento>
+    <FechaVto>2019/12/14</FechaVto>
+    <UnidadMedida>Kilos</UnidadMedida>
+    <TipoCodigo>PDF417</TipoCodigo>
+  </Artículo>
+</Articulos>

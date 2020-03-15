@@ -1,0 +1,17 @@
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\tpJson.exe.config
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\tpJson.exe
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\tpJson.pdb
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Georgi\source\repos\tpJson\tpJson\obj\Debug\tpJson.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\tpJson\tpJson\obj\Debug\tpJson.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\tpJson\tpJson\obj\Debug\tpJson.csproj.CopyComplete
+C:\Users\Georgi\source\repos\tpJson\tpJson\obj\Debug\tpJson.exe
+C:\Users\Georgi\source\repos\tpJson\tpJson\obj\Debug\tpJson.pdb
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\Google.Protobuf.dll
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\MySql.Data.dll
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\Renci.SshNet.dll
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\Google.Protobuf.xml
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\MySql.Data.xml
+C:\Users\Georgi\source\repos\tpJson\tpJson\bin\Debug\Renci.SshNet.xml

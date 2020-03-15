@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="DropCurso2.ascx.cs" Inherits="PracticaFinal8.DropCurso2" %>
+<asp:DropDownList ID="DropDownList1" runat="server" OnSelectedIndexChanged="envioId" AutoPostBack="true"></asp:DropDownList>

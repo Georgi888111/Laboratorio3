@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Edad.ascx.cs" Inherits="PracticaFinal3.Edad" %>
+<asp:TextBox ID="edadCtrol" runat="server" TextMode="Number" MaxLength="2"></asp:TextBox><asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Este campo es requerido" Text="*" ControlToValidate="edadCtrol"></asp:RequiredFieldValidator><asp:CustomValidator ID="validaRango" runat="server" ErrorMessage="La edad no es válida" OnServerValidate="validaEdad" Text="*"></asp:CustomValidator>

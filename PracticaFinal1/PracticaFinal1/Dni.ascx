@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Dni.ascx.cs" Inherits="PracticaFinal1.Dni" %>
+<asp:TextBox ID="dni" runat="server" MaxLength="8" TextMode="Number"></asp:TextBox><asp:RequiredFieldValidator ID="validaDni" runat="server" ErrorMessage="El campo dni es requerido" ControlToValidate="dni" Text="*"></asp:RequiredFieldValidator>

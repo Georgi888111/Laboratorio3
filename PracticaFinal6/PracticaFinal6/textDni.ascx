@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="textDni.ascx.cs" Inherits="PracticaFinal6.textDni" %>
+<asp:TextBox ID="dni" runat="server" MaxLength="8" TextMode="Number"></asp:TextBox><asp:RequiredFieldValidator ID="validaDni" runat="server" ErrorMessage="El campo dni es requerido" ControlToValidate="dni" Text="*"></asp:RequiredFieldValidator><asp:CustomValidator ID="validaLargo" runat="server" ErrorMessage="El formato del dni es incorrecto" Text="*" OnServerValidate="validaLargoDni"></asp:CustomValidator>

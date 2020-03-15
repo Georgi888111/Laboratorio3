@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="textNombre.ascx.cs" Inherits="PracticaFinal6.textNombre" %>
+<asp:TextBox ID="nombre" runat="server"></asp:TextBox><asp:RequiredFieldValidator ID="validaNombre" runat="server" ErrorMessage="El campo nombre es requerido" Text="*" ControlToValidate="nombre"></asp:RequiredFieldValidator><asp:RegularExpressionValidator ID="validaSololetras" runat="server" ErrorMessage="No puede ingresar números" Text="*" ControlToValidate="nombre" ValidationExpression="^[a-zA-Z]+$"></asp:RegularExpressionValidator>

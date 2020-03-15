@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="TextBoxMayorEdad.ascx.cs" Inherits="TpCreaciónCU.TextBoxMayorEdad" %>
+<asp:TextBox ID="TextBox1" runat="server" TextMode="Number"></asp:TextBox>

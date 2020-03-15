@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Facturas>
+  <Factura>
+    <ID>1</ID>
+    <Fecha>23/11/2009</Fecha>
+    <Total>0</Total>
+    <Detalles>
+      <ID>1</ID>
+      <Subtotal>0</Subtotal>
+      <Cantidad>20</Cantidad>
+      <Articulo>
+        <ID>1</ID>
+        <Nombre>Fideos</Nombre>
+        <Precio>23</Precio>
+      </Articulo>
+    </Detalles>
+  </Factura>
+</Facturas>

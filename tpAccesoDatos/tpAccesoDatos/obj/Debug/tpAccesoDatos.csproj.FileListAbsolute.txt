@@ -1,0 +1,13 @@
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\bin\Debug\tpAccesoDatos.exe.config
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\bin\Debug\tpAccesoDatos.exe
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\bin\Debug\tpAccesoDatos.pdb
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.Form1.resources
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.Properties.Resources.resources
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.csproj.GenerateResource.cache
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.exe
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.pdb
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.Form2.resources
+C:\Users\Georgi\source\repos\tpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.menu.resources
+C:\Users\Georgi\source\repos\TpAccesoDatos\tpAccesoDatos\obj\Debug\tpAccesoDatos.Form3.resources

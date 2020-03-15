@@ -1,0 +1,11 @@
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Calculadora.resources
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.GenerateResource.cache
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Abm.resources
+C:\Users\Georgi\source\repos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Abm2.resources

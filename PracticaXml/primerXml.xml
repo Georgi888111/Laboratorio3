@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Futbolistas>
+  <Jugador Pais="Uruguay">
+    <Nombre>Franco Garcia</Nombre>
+    <Equipo>Valencia C.F</Equipo>
+  </Jugador>
+  <Jugador Pais="Argentina">
+    <Nombre>Lionel Messi</Nombre>
+    <Equipo>Barcelona C.F</Equipo>
+  </Jugador>
+</Futbolistas>

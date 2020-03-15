@@ -1,0 +1,6 @@
+C:\Users\Georgi\source\repos\PracticaXml\PracticaXml\bin\Debug\PracticaXml.exe.config
+C:\Users\Georgi\source\repos\PracticaXml\PracticaXml\bin\Debug\PracticaXml.exe
+C:\Users\Georgi\source\repos\PracticaXml\PracticaXml\bin\Debug\PracticaXml.pdb
+C:\Users\Georgi\source\repos\PracticaXml\PracticaXml\obj\Debug\PracticaXml.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\PracticaXml\PracticaXml\obj\Debug\PracticaXml.exe
+C:\Users\Georgi\source\repos\PracticaXml\PracticaXml\obj\Debug\PracticaXml.pdb

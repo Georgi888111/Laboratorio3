@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageParcial.master.cs" Inherits="PracticaFinal1.MasterPageParcial" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="float:left;width:49%">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               <asp:Button ID="GuardarMaster" runat="server" Text="Guardar" OnClick="GuardarMaster_Click" />
+               <asp:Button ID="SessionMaster" runat="server" Text="Session" OnClick="SessionMaster_Click" />  
+            </asp:ContentPlaceHolder>
+        </div>
+         <div style="float:right;width:49%">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+       
+    </form>
+</body>
+</html>

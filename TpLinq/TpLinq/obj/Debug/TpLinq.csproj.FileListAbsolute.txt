@@ -1,0 +1,10 @@
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\bin\Debug\TpLinq.exe.config
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\bin\Debug\TpLinq.exe
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\bin\Debug\TpLinq.pdb
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\obj\Debug\TpLinq.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\obj\Debug\TpLinq.Form1.resources
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\obj\Debug\TpLinq.Properties.Resources.resources
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\obj\Debug\TpLinq.csproj.GenerateResource.cache
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\obj\Debug\TpLinq.exe
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\obj\Debug\TpLinq.pdb
+C:\Users\Georgi\source\repos\TpLinq\TpLinq\obj\Debug\TpLinq.Form2.resources

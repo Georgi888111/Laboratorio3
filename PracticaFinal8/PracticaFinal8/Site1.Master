@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="PracticaFinal8.Site1" %>
+
+<%@ Register Src="~/DropCurso2.ascx" TagPrefix="uc1" TagName="DropCurso2" %>
+<%@ Register Src="~/DropDownAlumno.ascx" TagPrefix="uc1" TagName="DropDownAlumno" %>
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <div style="float:left;width:49%">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+              
+            </asp:ContentPlaceHolder>
+        </div>
+       <div style="float:right;width:49%">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

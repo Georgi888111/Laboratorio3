@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="PracticaFinal7.PaginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+         <div style="float: left; width: 49%; background-color: pink">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                 <asp:Button ID="verForm" runat="server" Text="Ver Solo Formulario" OnClick="verForm_Click"  />
+               <asp:Button ID="verTabla" runat="server" Text="Ver Solo Tabla" OnClick="verTabla_Click"/>  
+            </asp:ContentPlaceHolder>
+        </div>
+          <div style="float: right; width: 49%; background-color: dodgerblue">
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+              <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+            </asp:ContentPlaceHolder>
+              </div>
+    </form>
+</body>
+</html>

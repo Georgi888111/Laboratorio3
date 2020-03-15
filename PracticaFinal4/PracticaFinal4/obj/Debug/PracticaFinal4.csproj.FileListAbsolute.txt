@@ -1,0 +1,11 @@
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\bin\Debug\PracticaFinal4.exe.config
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\bin\Debug\PracticaFinal4.exe
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\bin\Debug\PracticaFinal4.pdb
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\obj\Debug\PracticaFinal4.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\obj\Debug\PracticaFinal4.exe
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\obj\Debug\PracticaFinal4.pdb
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\source\repos\PracticaFinal4\PracticaFinal4\obj\Debug\PracticaFinal4.csproj.CopyComplete

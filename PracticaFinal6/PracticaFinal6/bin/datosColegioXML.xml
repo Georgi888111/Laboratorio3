@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Profesores>
+  <Profesor Materia="CienciasSociales">
+    <Dni>12456499</Dni>
+    <Nombre>MilagrosSalas</Nombre>
+    <Curso Division="2b">
+      <Horas>12</Horas>
+      <Alumnos>
+        <Alumno Dni="12345666">
+          <Nombre>MelisaFunes</Nombre>
+          <Año>2009</Año>
+        </Alumno>
+        <Alumno Dni="23456345">
+          <Nombre>CristianSepulveda</Nombre>
+          <Año>2009</Año>
+        </Alumno>
+        <Alumno Dni="33456456">
+          <Nombre>Georgina</Nombre>
+          <Año>2012</Año>
+        </Alumno>
+      </Alumnos>
+    </Curso>
+  </Profesor>
+  <Profesor Materia="Historia">
+    <Dni>22123123</Dni>
+    <Nombre>EstefaniaSanchez</Nombre>
+    <Curso Division="3b">
+      <Horas>23</Horas>
+      <Alumnos>
+        <Alumno Dni="40666543">
+          <Nombre>MilagrosCalafiore</Nombre>
+          <Año>2008</Año>
+        </Alumno>
+        <Alumno Dni="44222333">
+          <Nombre>EmilioFunes</Nombre>
+          <Año>2008</Año>
+        </Alumno>
+      </Alumnos>
+    </Curso>
+  </Profesor>
+  <Profesor Materia="Ingles">
+    <Dni>22888987</Dni>
+    <Nombre>FrancoValenzuela</Nombre>
+    <Curso Division="3b">
+      <Horas>23</Horas>
+      <Alumnos>
+        <Alumno Dni="40666543">
+          <Nombre>MilagrosCalafiore</Nombre>
+          <Año>2008</Año>
+        </Alumno>
+        <Alumno Dni="44222333">
+          <Nombre>EmilioFunes</Nombre>
+          <Año>2008</Año>
+        </Alumno>
+      </Alumnos>
+    </Curso>
+  </Profesor>
+  <Profesor Materia="Matematica">
+    <Dni>23455654</Dni>
+    <Nombre>HernanCastro</Nombre>
+    <Curso Division="2b">
+      <Horas>12</Horas>
+      <Alumnos>
+        <Alumno Dni="12345666">
+          <Nombre>MelisaFunes</Nombre>
+          <Año>2009</Año>
+        </Alumno>
+        <Alumno Dni="23456345">
+          <Nombre>CristianSepulveda</Nombre>
+          <Año>2009</Año>
+        </Alumno>
+        <Alumno Dni="33456456">
+          <Nombre>Georgina</Nombre>
+          <Año>2012</Año>
+        </Alumno>
+      </Alumnos>
+    </Curso>
+  </Profesor>
+  <Profesor Materia="CienciasNaturales">
+    <Dni>34222765</Dni>
+    <Nombre>MarcelaMagallanes</Nombre>
+    <Curso Division="2b">
+      <Horas>12</Horas>
+      <Alumnos>
+        <Alumno Dni="12345666">
+          <Nombre>MelisaFunes</Nombre>
+          <Año>2009</Año>
+        </Alumno>
+        <Alumno Dni="23456345">
+          <Nombre>CristianSepulveda</Nombre>
+          <Año>2009</Año>
+        </Alumno>
+        <Alumno Dni="33456456">
+          <Nombre>Georgina</Nombre>
+          <Año>2012</Año>
+        </Alumno>
+      </Alumnos>
+    </Curso>
+  </Profesor>
+  <Profesor Materia="Lengua">
+    <Dni>34323333</Dni>
+    <Nombre>Mariana</Nombre>
+    <Curso Division="2b">
+      <Horas>12</Horas>
+      <Alumnos>
+        <Alumno Dni="12345666">
+          <Nombre>MelisaFunes</Nombre>
+          <Año>2009</Año>
+        </Alumno>
+        <Alumno Dni="23456345">
+          <Nombre>CristianSepulveda</Nombre>
+          <Año>2009</Año>
+        </Alumno>
+        <Alumno Dni="33456456">
+          <Nombre>Georgina</Nombre>
+          <Año>2012</Año>
+        </Alumno>
+      </Alumnos>
+    </Curso>
+  </Profesor>
+</Profesores>

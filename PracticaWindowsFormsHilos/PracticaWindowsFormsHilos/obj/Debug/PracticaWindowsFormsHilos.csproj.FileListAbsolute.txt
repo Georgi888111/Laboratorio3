@@ -1,0 +1,12 @@
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\bin\Debug\PracticaWindowsFormsHilos.exe.config
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\bin\Debug\PracticaWindowsFormsHilos.exe
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\bin\Debug\PracticaWindowsFormsHilos.pdb
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.Form1.resources
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.Properties.Resources.resources
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.csproj.GenerateResource.cache
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.exe
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.pdb
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.Form2.resources
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.Form3.resources
+C:\Users\Georgi\source\repos\PracticaWindowsFormsHilos\PracticaWindowsFormsHilos\obj\Debug\PracticaWindowsFormsHilos.Form4.resources

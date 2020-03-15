@@ -1,0 +1,9 @@
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\bin\Debug\PracticaFinal5.exe.config
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\bin\Debug\PracticaFinal5.exe
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\bin\Debug\PracticaFinal5.pdb
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\obj\Debug\PracticaFinal5.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\obj\Debug\PracticaFinal5.csproj.CopyComplete
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\obj\Debug\PracticaFinal5.exe
+C:\Users\Georgi\source\repos\PracticaFinal5\PracticaFinal5\obj\Debug\PracticaFinal5.pdb

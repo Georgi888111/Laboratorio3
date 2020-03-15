@@ -1,0 +1,17 @@
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Parcial1Lab - Crespo.exe.config
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Parcial1Lab - Crespo.exe
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Parcial1Lab - Crespo.pdb
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\obj\Debug\Parcial1Lab - Crespo.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\obj\Debug\Parcial1Lab - Crespo.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\obj\Debug\Parcial1Lab - Crespo.exe
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\obj\Debug\Parcial1Lab - Crespo.pdb
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Google.Protobuf.dll
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\MySql.Data.dll
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Renci.SshNet.dll
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Google.Protobuf.xml
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\MySql.Data.xml
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\bin\Debug\Renci.SshNet.xml
+C:\Users\Georgi\source\repos\Parcial1Lab - Crespo\Parcial1Lab - Crespo\obj\Debug\Parcial1Lab - Crespo.csproj.CopyComplete
